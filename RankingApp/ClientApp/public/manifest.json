@@ -1,4 +1,4 @@
-{
+﻿{
   "short_name": "RankingApp",
   "name": "RankingApp",
   "icons": [
@@ -13,3 +13,4 @@
   "theme_color": "#000000",
   "background_color": "#ffffff"
 }
+
