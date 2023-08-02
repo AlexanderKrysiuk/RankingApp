@@ -1,13 +1,24 @@
 ﻿<Properties GitUserInfo="UsingMD" StartupConfiguration="{E61A2EB9-5704-4D47-B4DB-39522D4A6D6D}|Default">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.RankingApp PreferredExecutionTarget="/Applications/Brave Browser.app" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="RankingApp/Controllers/WeatherForecastController.cs">
+    <Files>
+      <File FileName="RankingApp/Controllers/WeatherForecastController.cs" Line="19" Column="6" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="RankingApp" expanded="True" />
+          <Node name="RankingApp">
+            <Node name="RankingApp">
+              <Node name="Controllers" expanded="True">
+                <Node name="WeatherForecastController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>
