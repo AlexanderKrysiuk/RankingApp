@@ -1,7 +1,7 @@
 import { Counter } from "./components/Counter";
 import { FetchData } from "./components/FetchData";
 import { Home } from "./components/Home";
-import RankItems from "./components/RankItem";
+import RankItems from "./components/RankItems";
 
 const AppRoutes = [
   {
